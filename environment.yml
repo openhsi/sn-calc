@@ -1,0 +1,10 @@
+name: hsi-sn
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - matplotlib=3.3.2
+  - ipympl=0.5.8
+  - ipywidgets=7.5.1
+  - numpy=1.19.2
+  - Py6S
